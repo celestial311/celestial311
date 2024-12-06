@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Soumya Sourav Das
 - 👀 I’m interested in Tech and related fields
-- 🌱 I’m currently learning DSA
+- 🌱 I’m currently learning DS-ML
 - 💞️ I’m looking to collaborate on nothing currently
 - 📫 How to reach me Telegram- @Cesktl
 - 😄 Pronouns: He/Him
